@@ -1,0 +1,21 @@
+{
+  "name": "preact-typescript",
+  "version": "1.0.0",
+  "description": "A Simple Preact Project with Typescript",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@deepsignal/preact": "3.0.2",
+    "@preact/signals": "1.2.1",
+    "@preact/signals-core": "1.5.0",
+    "preact": "10.5.14",
+    "rxjs": "7.8.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
